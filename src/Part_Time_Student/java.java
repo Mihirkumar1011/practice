@@ -11,4 +11,6 @@ package Part_Time_Student;
  */
 public class java {
     
+    system.out.println('i am mihir');
+    
 }
